@@ -21,4 +21,5 @@ Create AIMS grid to define purpose and success criteria of data analysis project
 * Sales team able to take better decisions & prove 10% cpst savings of total spend
 * Sales Analysts stop data gathering manually in order to save 20% of their business time and reinvest its value added activity 
 
+### Data Analysis Using SQL
 
