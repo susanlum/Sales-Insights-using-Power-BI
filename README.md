@@ -1,3 +1,5 @@
+<img width="119" alt="Untitled" src="https://user-images.githubusercontent.com/105427308/188606715-5a74c902-93d6-43bc-9e1e-8ca8ee6f079c.png">
+
 # Sales-Insights-using-Power-BI
 Credited to [Codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3utcb9nKtanhcn8jd2E0Hp9b)
 
