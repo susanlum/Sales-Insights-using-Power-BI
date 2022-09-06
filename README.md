@@ -3,7 +3,7 @@ Credited to [Codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3utcb9n
 
 ### Problem statement <br>
 * AtliQ Hardware is a  computer hardware & peripheral manufacturer based in Delhi, India. They supply products to their customers across India. 
-* Sales director requests for automated dashboard to track sales performance across regions and generate real time sales insights (instead of going through tons of excel sheets during the meeting). 
+* Sales director requests for automated dashboard to track sales performance across regions and generate real time sales insights (instead of merging tons of excel sheets manually). 
 
 ### Data Discovery <br>
 Create AIMS grid to define purpose and success criteria of data analysis project. 
