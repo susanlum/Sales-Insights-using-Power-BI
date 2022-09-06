@@ -1,4 +1,5 @@
 # Sales-Insights-using-Power-BI
+Credit to Codebasics https://www.youtube.com/playlist?list=PLeo1K3hjS3utcb9nKtanhcn8jd2E0Hp9b
 
 ### Problem statement <br>
 * AtliQ Hardware is a  computer hardware & peripheral manufacturer based in Delhi, India. They supply products to their customers across India. 
