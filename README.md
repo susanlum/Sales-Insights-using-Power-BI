@@ -1,1 +1,1 @@
-# Sales-Insights-using-Pwer-BI
+# Sales-Insights-using-Power-BI
