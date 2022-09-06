@@ -6,10 +6,9 @@
 
 ### Data Discovery <br>
 Define AIMS grid to define purpose and success criteria of data analysis project. 
-*Purpose*: To unlock sales insights that are not visible before sales team for decision support & automate them to reduced manual time spent in data gathering. 
 
-Stakeholders 
-Sales director, marketing team, customer service team, data & analytics team, IT
+***Purpose***: To unlock sales insights that are not visible before sales team for decision support & automate them to reduced manual time spent in data gathering. 
 
-End Result
-An automated dashboard providing quick & latest sales insights in order to support data driven decision making
+***Stakeholders*** : Sales director, marketing team, customer service team, data & analytics team, IT
+
+***End Result*** : An automated dashboard providing quick & latest sales insights in order to support data driven decision making
