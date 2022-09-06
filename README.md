@@ -5,7 +5,7 @@
 * Sales director requests for automated dashboard to track sales performance across regions and generate real time sales insights (instead of going through tons of excel sheets during the meeting). 
 
 ### Data Discovery <br>
-Define AIMS grid to define purpose and success criteria of data analysis project. 
+* Create AIMS grid to define purpose and success criteria of data analysis project. 
 
 ***Purpose***: To unlock sales insights that are not visible before sales team for decision support & automate them to reduced manual time spent in data gathering. 
 
