@@ -10,7 +10,9 @@
 * Senior executives have decided to invest for automated dashboard to track sales performance across regions and generate real time sales insights.
 
 ### Overview of Data
-* Type of customers: (1) Brick & Mortar: Croma, Best Buy; (2) E-Commerce: Amazon, Flipkart
+AtliQ Hardware sell their products through:- 
+* retailers: (1) Brick & Mortar: Croma, Best Buy; (2) E-Commerce: Amazon, Flipkart
+* own stores: AtqliQ e store, AtliQ exclusive 
 
 ### Data Discovery <br>
 Create AIMS grid to define purpose and success criteria of data analysis project. 
