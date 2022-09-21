@@ -1,6 +1,6 @@
 <img width="119" alt="Untitled" src="https://user-images.githubusercontent.com/105427308/188606715-5a74c902-93d6-43bc-9e1e-8ca8ee6f079c.png">
 
-# Data Visualisation-using-Power-BI
+# Data Visualisation using Power BI
 
 
 ### Problem statement <br>
