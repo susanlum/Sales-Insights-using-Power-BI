@@ -13,7 +13,7 @@
 AtliQ Hardware sell their products to the following before reaching end consumers:- 
 * retailers: (1) Brick & Mortar: Croma, Best Buy; (2) E-Commerce: Amazon, Flipkart
 * distributor: Neptune -> then sell to Kem-CHHO, Babu, Teri-naki 
-* own stores: AtqliQ e store, AtliQ exclusive 
+* own direct stores: AtqliQ e store, AtliQ exclusive 
 
 ### Data Discovery <br>
 Create AIMS grid to define purpose and success criteria of data analysis project. 
