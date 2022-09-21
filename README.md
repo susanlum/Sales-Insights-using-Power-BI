@@ -10,8 +10,9 @@
 * Senior executives have decided to invest for automated dashboard to track sales performance across regions and generate real time sales insights.
 
 ### Overview of Data
-AtliQ Hardware sell their products through:- 
+AtliQ Hardware sell their products to the following before reaching end consumers:- 
 * retailers: (1) Brick & Mortar: Croma, Best Buy; (2) E-Commerce: Amazon, Flipkart
+* distributor: Neptune -> then sell to Kem-CHHO, Babu, Teri-naki 
 * own stores: AtqliQ e store, AtliQ exclusive 
 
 ### Data Discovery <br>
