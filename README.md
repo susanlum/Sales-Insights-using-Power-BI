@@ -7,7 +7,10 @@
 * AtliQ Hardware is a  computer hardware & peripheral manufacturer based in Delhi, India. They have operations in various countries. 
 * Their business is growing rapidly and they still rely on excel files for data analytics. Excel files are hard to consume and not effective in generating insights. 
 * Due to the lack of effective analytics, the company faced a major loss in Latin America.
-* Senior executives have decided to invest for automated dashboard to track sales performance across regions and generate real time sales insights. 
+* Senior executives have decided to invest for automated dashboard to track sales performance across regions and generate real time sales insights.
+
+### Overview of Data
+* Type of customers: (1) Brick & Mortar: Croma, Best Buy; (2) E-Commerce: Amazon, Flipkart
 
 ### Data Discovery <br>
 Create AIMS grid to define purpose and success criteria of data analysis project. 
